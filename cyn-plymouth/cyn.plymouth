@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=WelcomeToTheGame
+Description={{Description}}
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cyn
+ScriptFile=/usr/share/plymouth/themes/cyn/animated-boot.script
